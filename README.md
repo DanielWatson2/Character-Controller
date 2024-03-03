@@ -1,2 +1,2 @@
-# Character-Controller
- Week 1 Task
+# Shooter Game
+Testing various mechanics in Unity
